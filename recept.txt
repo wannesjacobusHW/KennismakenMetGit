@@ -2,3 +2,7 @@ chocomouse
 
 chocolade
 eieren
+melk
+boter
+room
+suiker
